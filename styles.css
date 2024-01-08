@@ -42,3 +42,37 @@
 }
 
 
+
+.block-three {
+  position: relative;
+  width: 600px;
+  align-content: center;
+}
+
+.block-three img {
+  width: 700px;
+  height: 300px;
+  display: flex;
+}
+
+.text-blockthree {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  
+}
+
+.blockthree-secondimg {
+
+  position: absolute;
+      
+      top: 0;
+      left: 250px;
+      width: 320px;
+      height: 465px;
+}
+
